@@ -4,7 +4,7 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "manifest.json": "4fbfe324828902236d2e7a61e66d7470",
-"main.dart.js": "b0196c83ecfbf9860c898ec422c89920",
+"main.dart.js": "aa02206cd24b188dc4a0c4b021a00f0f",
 "favicon.png": "13c2a5b30f5d7ba5f048938bbbd0ef8e",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
@@ -13,8 +13,8 @@ const RESOURCES = {
 "icons/apple-touch-icon.png": "218d1aa586b5cd132adecc96a1367688",
 "icons/Icon-192.png": "b40f125401e273abca134ab1a7867d79",
 "icons/Icon-512.png": "abdb9217ebce2eb9291dc73cf7346e02",
-"index.html": "0d08e60da6818579ae13ae332bb0f2df",
-"/": "0d08e60da6818579ae13ae332bb0f2df",
+"index.html": "7fe10bd5885bfcde61032a9d7d404da3",
+"/": "7fe10bd5885bfcde61032a9d7d404da3",
 "assets/NOTICES": "7711ef4c95ea70b8dd88c09a63bf268a",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
 "assets/asset/image/bees.gif": "7501ebe8165def4ab89dabc8157c8381",

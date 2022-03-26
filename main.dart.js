@@ -61757,7 +61757,7 @@ return A.S(null,r)}})
 return A.T($async$oy,r)},
 lT(){var s=0,r=A.U(t.H),q,p=2,o,n=[],m=this,l,k,j,i,h,g,f,e
 var $async$lT=A.V(function(a,b){if(a===1){o=b
-s=p}while(true)switch(s){case 0:if(J.dK(A.a(m.dx,"proofsJson"),m.x)){j=m.c
+s=p}while(true)switch(s){case 0:if(!J.dK(A.a(m.dx,"proofsJson"),m.x)){j=m.c
 j.toString
 A.ad_(j)
 A.bF().$1("Adress not whitelisted")
