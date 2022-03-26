@@ -4,7 +4,7 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "manifest.json": "4fbfe324828902236d2e7a61e66d7470",
-"main.dart.js": "de111280aca54937b67c46d19d496771",
+"main.dart.js": "b0196c83ecfbf9860c898ec422c89920",
 "favicon.png": "13c2a5b30f5d7ba5f048938bbbd0ef8e",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
@@ -13,14 +13,13 @@ const RESOURCES = {
 "icons/apple-touch-icon.png": "218d1aa586b5cd132adecc96a1367688",
 "icons/Icon-192.png": "b40f125401e273abca134ab1a7867d79",
 "icons/Icon-512.png": "abdb9217ebce2eb9291dc73cf7346e02",
-"index.html": "bf2e646b18517bc8dc621fcbfd426d67",
-"/": "bf2e646b18517bc8dc621fcbfd426d67",
+"index.html": "0d08e60da6818579ae13ae332bb0f2df",
+"/": "0d08e60da6818579ae13ae332bb0f2df",
 "assets/NOTICES": "7711ef4c95ea70b8dd88c09a63bf268a",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
 "assets/asset/image/bees.gif": "7501ebe8165def4ab89dabc8157c8381",
 "assets/asset/image/bg2.png": "1759d364c9be99b1808a05c2b699d1f9",
 "assets/asset/image/twitter.png": "10b5fd3b3361c9634acd2266b0aeb2c6",
-"assets/asset/image/animated_bg.gif": "89289e432d81a751ab5bc9d6f6126c8c",
 "assets/asset/image/bg4.png": "bbfd575081b22579040f86ce57f43ffd",
 "assets/asset/image/dead.gif": "235b5db2bf6f3c663da7d278af631dd1",
 "assets/asset/image/player1.gif": "111563015235ca4491b11d8e60f8096e",
@@ -39,10 +38,11 @@ const RESOURCES = {
 "assets/asset/image/player3.gif": "70082091b19c54521e3442cff8daa59b",
 "assets/asset/image/logo1.png": "b3c422e604fee850665070fbdbf9f4c9",
 "assets/asset/image/wasps.gif": "7d9bd05aa9d09fc661180791fd8c7ace",
+"assets/asset/contract/merkleList.json": "2564500024eaa03703157f824f90fc20",
 "assets/asset/contract/waspVsBeeNFT.json": "854d27d087ec62d49b20e0f4f1562308",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/AssetManifest.json": "c0881cc915bfc0cdf1cfe4134f415e93",
+"assets/AssetManifest.json": "831b418add638fa1de284d339bc38f2f",
 "version.json": "aae9f2fedece4856ff736b5e1f433780"
 };
 
