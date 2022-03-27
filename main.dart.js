@@ -64365,7 +64365,7 @@ n7(){var s=this,r=s.f,q=A.ad(r).j("av<1,ae<i,@>>")
 return A.aI(["name",s.a,"description",s.b,"image",s.c,"externalUrl",s.d,"edition",s.e,"attributes",A.aj(new A.av(r,new A.Yv(),q),!0,q.j("bb.E"))],t.N,t.z)},
 gct(){return B.c.kJ(this.f,new A.Yt(),new A.Yu()).b},
 gIT(){return J.apM(B.c.gG(J.apH(B.c.gG(this.a.split("|")),"-")))},
-gIS(){return"http://nft.waspvsbee.games/"+this.ga60().toLowerCase()+"/image/"+A.d(B.c.gG(this.c.split("/")))},
+gIS(){return"https://www.waspvsbee.games/nft/"+this.ga60().toLowerCase()+"/image/"+A.d(B.c.gG(this.c.split("/")))},
 ga60(){return B.c.zX(this.f,new A.Ys()).b},
 k0(){return B.V.iz(0,this.n7())},
 gay(a){return this.a}}
