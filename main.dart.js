@@ -64813,7 +64813,7 @@ return A.W(m.dv(0,"getTokenTraits",[A.afx(A.dU(k.h(l),null))],p),$async$kG)
 case 7:j=b
 A.bO().$1("race: "+A.d(j))
 l=A.dU(k.h(l),null)
-m="http://nft.waspvsbee.games/"+(J.f(J.bm(j),"0")?"bee":"wasp")+"/json/"+B.e.d3(l,59)+".json"
+m="https://www.waspvsbee.games/nft/"+(J.f(J.bm(j),"0")?"bee":"wasp")+"/json/"+B.e.d3(l,59)+".json"
 i=A.ash()
 i.a="GET"
 s=8
