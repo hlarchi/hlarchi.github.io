@@ -4,7 +4,7 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "manifest.json": "4fbfe324828902236d2e7a61e66d7470",
-"main.dart.js": "f1ed6eaa7f827cabc29e82bf1b87d109",
+"main.dart.js": "907ba55aefee873b548784e3ba1fe57f",
 "favicon.png": "13c2a5b30f5d7ba5f048938bbbd0ef8e",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
@@ -13,9 +13,9 @@ const RESOURCES = {
 "icons/apple-touch-icon.png": "218d1aa586b5cd132adecc96a1367688",
 "icons/Icon-192.png": "b40f125401e273abca134ab1a7867d79",
 "icons/Icon-512.png": "abdb9217ebce2eb9291dc73cf7346e02",
-"index.html": "94e5133ae466c7cd57afaec803559905",
-"/": "94e5133ae466c7cd57afaec803559905",
-"assets/NOTICES": "7bb0c55c9bb3b14eca6490f924a91817",
+"index.html": "9dd92fddfe110987bdd3d2ebec038efb",
+"/": "9dd92fddfe110987bdd3d2ebec038efb",
+"assets/NOTICES": "e065eb998868195ff9b492cee3a3d007",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
 "assets/asset/image/bees.gif": "7501ebe8165def4ab89dabc8157c8381",
 "assets/asset/image/bg2.png": "1759d364c9be99b1808a05c2b699d1f9",
@@ -26,6 +26,7 @@ const RESOURCES = {
 "assets/asset/image/boxBorder.png": "72cffe4317a55d500572d43bd2bff851",
 "assets/asset/image/KYC.png": "ae9fa0ccace2b520b2fbfc9f56a592f7",
 "assets/asset/image/bg5.png": "db08ba3309f516682e0f06ff06ae94d5",
+"assets/asset/image/honey.png": "03c8bf0a38d0579a7ee80ccfda5013c0",
 "assets/asset/image/bg1.png": "f19255b4e2acf33f1276fc8a6302aa1a",
 "assets/asset/image/player2.gif": "bb3e831c416d15a9299d598988065cf4",
 "assets/asset/image/loading.gif": "9065e954bc4949d92a390716cd2a96fb",
@@ -38,10 +39,12 @@ const RESOURCES = {
 "assets/asset/image/player3.gif": "70082091b19c54521e3442cff8daa59b",
 "assets/asset/image/logo1.png": "b3c422e604fee850665070fbdbf9f4c9",
 "assets/asset/image/wasps.gif": "7d9bd05aa9d09fc661180791fd8c7ace",
+"assets/asset/contract/honey.json": "d61e9bb777dcff4293effae89d49a84f",
+"assets/asset/contract/hive.json": "947db5319ae05b80fc4b87f8bcca6a90",
 "assets/asset/contract/waspVsBeeNFT.json": "ce9ff7ad8da165c5fe273053a9ef3e9c",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/AssetManifest.json": "3860b1c8acd452dd2b89b43871be5893",
+"assets/AssetManifest.json": "3c7cec1a3336ec59f79acebe46f2d8a3",
 "version.json": "aae9f2fedece4856ff736b5e1f433780"
 };
 
